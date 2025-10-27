@@ -1,0 +1,7 @@
+{
+  "name": "Detector de Agachamento da Mãe",
+  "description": "Um aplicativo divertido que ouve a palavra 'mãe' e te alerta para fazer um agachamento. Uma maneira lúdica de se manter ativo!",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
